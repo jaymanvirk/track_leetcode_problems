@@ -1,4 +1,4 @@
-# Set of Leetcode problems in progress grouped by subject
+# Set of LeetCode problems in progress grouped by subject
 
 | Subject | Completed problems | Problems | Year |
 | --- | --- | --- | --- |
